@@ -1,0 +1,19 @@
+.search-wrap {
+    background-color: white;
+    border-radius: 20px;
+    margin: 10px 0px;
+
+}
+.icon {
+    position: absolute;
+    margin: 8px;
+    color: gray;
+}
+.search-input {
+    height: 30px;
+    font-size: 14px;
+    border: none;
+    background-color: transparent;
+    box-sizing: border-box;
+    margin-left: 30px;
+}
