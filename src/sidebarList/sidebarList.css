@@ -22,8 +22,10 @@
     height: 32px;
     font-size: 14px;
     line-height: 32px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .list-item:hover {
-    background-color: #c0c0c0;
+    background-color: #d3d6d8;
 }

@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 function SidebarList(props) {
     const categories = props.categories;
     const listItems = categories.map((category) =>
-        <ListItem categoryName={category.title} icon={category.icon} />
+        <ListItem categoryName={category.title} icon={category.icon} key={category.id} />
     );
     return(
         <div>

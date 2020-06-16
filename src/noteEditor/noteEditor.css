@@ -1,0 +1,13 @@
+.text-editor {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    position: relative;
+}
+
+.quill {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    position: relative;
+}
